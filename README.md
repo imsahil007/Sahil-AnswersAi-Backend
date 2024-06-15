@@ -86,6 +86,9 @@ Questions
 - `GET /api/questions/{questionId:str}`: Get a specific question by ID.
 - `GET /users/{userId:str}/questions`: Get all questions asked by a specific user.
 
+![alt text](docs/image.png)
+
+
 ### Running Tests
 To run the tests using Jest:
 

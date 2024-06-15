@@ -1091,3 +1091,10 @@
 {"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:53:53"}
 {"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:53:53"}
 {"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 14:53:53"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 17:22:10"}
+{"level":"info","message":"GET /api-docs/","service":"user-service","timestamp":"2024-06-15 17:22:19"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","service":"user-service","timestamp":"2024-06-15 17:22:19"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","service":"user-service","timestamp":"2024-06-15 17:22:19"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","service":"user-service","timestamp":"2024-06-15 17:22:19"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","service":"user-service","timestamp":"2024-06-15 17:22:19"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 17:22:19"}
