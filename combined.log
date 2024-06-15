@@ -1,0 +1,1093 @@
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 02:37:33"}
+{"level":"info","message":"GET /docs/","service":"user-service","timestamp":"2024-06-15 02:37:38"}
+{"level":"info","message":"GET /docs/swagger-ui.css","service":"user-service","timestamp":"2024-06-15 02:37:38"}
+{"level":"info","message":"GET /docs/swagger-ui-init.js","service":"user-service","timestamp":"2024-06-15 02:37:38"}
+{"level":"info","message":"GET /docs/swagger-ui-bundle.js","service":"user-service","timestamp":"2024-06-15 02:37:38"}
+{"level":"info","message":"GET /docs/swagger-ui-standalone-preset.js","service":"user-service","timestamp":"2024-06-15 02:37:38"}
+{"level":"info","message":"GET /docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 02:37:39"}
+{"level":"info","message":"POST /docs/questions","service":"user-service","timestamp":"2024-06-15 02:37:43"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 02:38:41"}
+{"level":"info","message":"GET /docs/","service":"user-service","timestamp":"2024-06-15 02:38:47"}
+{"level":"info","message":"GET /api-docs","service":"user-service","timestamp":"2024-06-15 02:38:51"}
+{"level":"info","message":"GET /api-docs/","service":"user-service","timestamp":"2024-06-15 02:38:51"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","service":"user-service","timestamp":"2024-06-15 02:38:51"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","service":"user-service","timestamp":"2024-06-15 02:38:51"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","service":"user-service","timestamp":"2024-06-15 02:38:51"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","service":"user-service","timestamp":"2024-06-15 02:38:51"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 02:38:51"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 02:38:51"}
+{"level":"info","message":"POST /docs/questions","service":"user-service","timestamp":"2024-06-15 02:38:55"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","service":"user-service","timestamp":"2024-06-15 02:40:12"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css.map","service":"user-service","timestamp":"2024-06-15 02:40:12"}
+{"level":"info","message":"POST /docs/questions","service":"user-service","timestamp":"2024-06-15 02:40:18"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 02:41:00"}
+{"level":"info","message":"GET /api-docs/","service":"user-service","timestamp":"2024-06-15 02:41:03"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","service":"user-service","timestamp":"2024-06-15 02:41:04"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","service":"user-service","timestamp":"2024-06-15 02:41:04"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","service":"user-service","timestamp":"2024-06-15 02:41:04"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","service":"user-service","timestamp":"2024-06-15 02:41:04"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css.map","service":"user-service","timestamp":"2024-06-15 02:41:04"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 02:41:04"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 02:41:04"}
+{"level":"info","message":"POST /docs/questions","service":"user-service","timestamp":"2024-06-15 02:41:08"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 02:42:01"}
+{"level":"info","message":"GET /api-docs/","service":"user-service","timestamp":"2024-06-15 02:42:05"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","service":"user-service","timestamp":"2024-06-15 02:42:05"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","service":"user-service","timestamp":"2024-06-15 02:42:05"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","service":"user-service","timestamp":"2024-06-15 02:42:05"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","service":"user-service","timestamp":"2024-06-15 02:42:05"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css.map","service":"user-service","timestamp":"2024-06-15 02:42:05"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 02:42:05"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 02:42:05"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 02:42:09"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 02:42:43"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 02:43:29"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 02:43:32"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 02:43:37"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 02:44:24"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 02:44:32"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 02:44:32"}
+{"level":"info","message":"GET /api-docs/","service":"user-service","timestamp":"2024-06-15 02:45:15"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","service":"user-service","timestamp":"2024-06-15 02:45:15"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","service":"user-service","timestamp":"2024-06-15 02:45:15"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","service":"user-service","timestamp":"2024-06-15 02:45:15"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","service":"user-service","timestamp":"2024-06-15 02:45:15"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 02:45:15"}
+{"level":"info","message":"GET /api-docs/","service":"user-service","timestamp":"2024-06-15 02:45:17"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","service":"user-service","timestamp":"2024-06-15 02:45:17"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","service":"user-service","timestamp":"2024-06-15 02:45:17"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","service":"user-service","timestamp":"2024-06-15 02:45:17"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","service":"user-service","timestamp":"2024-06-15 02:45:17"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 02:45:17"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 02:45:21"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 02:45:21"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 02:46:00"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 02:46:22"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 02:46:38"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 02:46:38"}
+{"level":"error","message":"Error fetching AI response from Anthropic: TypeError: messages.map is not a function\n    at ChatAnthropicMessages.generate (/Users/sahil/code/express-app/node_modules/@langchain/core/dist/language_models/chat_models.cjs:301:39)\n    at getAIAnswer (/Users/sahil/code/express-app/controllers/questionController.js:10:48)\n    at exports.createQuestion (/Users/sahil/code/express-app/controllers/questionController.js:24:30)\n    at Layer.handle [as handle_request] (/Users/sahil/code/express-app/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/sahil/code/express-app/node_modules/express/lib/router/route.js:149:13)\n    at authMiddleware (/Users/sahil/code/express-app/middlewares/authMiddleware.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","service":"user-service","timestamp":"2024-06-15 02:46:38"}
+{"level":"error","message":"Error creating question: Error: Error fetching AI response from Anthropic\n    at getAIAnswer (/Users/sahil/code/express-app/controllers/questionController.js:17:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async exports.createQuestion (/Users/sahil/code/express-app/controllers/questionController.js:24:24)","service":"user-service","timestamp":"2024-06-15 02:46:38"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 02:48:26"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 02:48:34"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 02:48:34"}
+{"level":"error","message":"Error fetching AI response from Anthropic: TypeError: messages.map is not a function\n    at ChatAnthropicMessages.generate (/Users/sahil/code/express-app/node_modules/@langchain/core/dist/language_models/chat_models.cjs:301:39)\n    at getAIAnswer (/Users/sahil/code/express-app/controllers/questionController.js:10:48)\n    at exports.createQuestion (/Users/sahil/code/express-app/controllers/questionController.js:30:30)\n    at Layer.handle [as handle_request] (/Users/sahil/code/express-app/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/sahil/code/express-app/node_modules/express/lib/router/route.js:149:13)\n    at authMiddleware (/Users/sahil/code/express-app/middlewares/authMiddleware.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","service":"user-service","timestamp":"2024-06-15 02:48:34"}
+{"level":"error","message":"Error creating question: Error: Error fetching AI response from Anthropic\n    at getAIAnswer (/Users/sahil/code/express-app/controllers/questionController.js:23:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async exports.createQuestion (/Users/sahil/code/express-app/controllers/questionController.js:30:24)","service":"user-service","timestamp":"2024-06-15 02:48:34"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 02:49:19"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 02:49:24"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 02:49:24"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 02:49:24"}
+{"level":"error","message":"Error fetching AI response from Anthropic: TypeError: messages.map is not a function\n    at ChatAnthropicMessages.generate (/Users/sahil/code/express-app/node_modules/@langchain/core/dist/language_models/chat_models.cjs:301:39)\n    at getAIAnswer (/Users/sahil/code/express-app/controllers/questionController.js:11:48)\n    at exports.createQuestion (/Users/sahil/code/express-app/controllers/questionController.js:31:30)\n    at Layer.handle [as handle_request] (/Users/sahil/code/express-app/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/sahil/code/express-app/node_modules/express/lib/router/route.js:149:13)\n    at authMiddleware (/Users/sahil/code/express-app/middlewares/authMiddleware.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","service":"user-service","timestamp":"2024-06-15 02:49:24"}
+{"level":"error","message":"Error creating question: Error: Error fetching AI response from Anthropic\n    at getAIAnswer (/Users/sahil/code/express-app/controllers/questionController.js:24:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async exports.createQuestion (/Users/sahil/code/express-app/controllers/questionController.js:31:24)","service":"user-service","timestamp":"2024-06-15 02:49:24"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 03:10:25"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 03:10:29"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 03:10:29"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 03:10:29"}
+{"level":"error","message":"Error fetching AI response from Anthropic: ReferenceError: questions is not defined\n    at getAIAnswer (/Users/sahil/code/express-app/controllers/questionController.js:12:55)\n    at exports.createQuestion (/Users/sahil/code/express-app/controllers/questionController.js:29:30)\n    at Layer.handle [as handle_request] (/Users/sahil/code/express-app/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/sahil/code/express-app/node_modules/express/lib/router/route.js:149:13)\n    at authMiddleware (/Users/sahil/code/express-app/middlewares/authMiddleware.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","service":"user-service","timestamp":"2024-06-15 03:10:29"}
+{"level":"error","message":"Error creating question: Error: Error fetching AI response from Anthropic\n    at getAIAnswer (/Users/sahil/code/express-app/controllers/questionController.js:22:15)\n    at exports.createQuestion (/Users/sahil/code/express-app/controllers/questionController.js:29:30)\n    at Layer.handle [as handle_request] (/Users/sahil/code/express-app/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/sahil/code/express-app/node_modules/express/lib/router/route.js:149:13)\n    at authMiddleware (/Users/sahil/code/express-app/middlewares/authMiddleware.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","service":"user-service","timestamp":"2024-06-15 03:10:29"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 03:10:46"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 03:10:48"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 03:10:48"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 03:10:48"}
+{"level":"error","message":"Error fetching AI response from Anthropic: TypeError: Assignment to constant variable.\n    at getAIAnswer (/Users/sahil/code/express-app/controllers/questionController.js:12:74)\n    at exports.createQuestion (/Users/sahil/code/express-app/controllers/questionController.js:29:30)\n    at Layer.handle [as handle_request] (/Users/sahil/code/express-app/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/sahil/code/express-app/node_modules/express/lib/router/route.js:149:13)\n    at authMiddleware (/Users/sahil/code/express-app/middlewares/authMiddleware.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","service":"user-service","timestamp":"2024-06-15 03:10:48"}
+{"level":"error","message":"Error creating question: Error: Error fetching AI response from Anthropic\n    at getAIAnswer (/Users/sahil/code/express-app/controllers/questionController.js:22:15)\n    at exports.createQuestion (/Users/sahil/code/express-app/controllers/questionController.js:29:30)\n    at Layer.handle [as handle_request] (/Users/sahil/code/express-app/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/sahil/code/express-app/node_modules/express/lib/router/route.js:149:13)\n    at authMiddleware (/Users/sahil/code/express-app/middlewares/authMiddleware.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","service":"user-service","timestamp":"2024-06-15 03:10:48"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 03:11:10"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 03:11:18"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 03:11:18"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 03:11:18"}
+{"level":"error","message":"Error fetching AI response from Anthropic: TypeError: Assignment to constant variable.\n    at getAIAnswer (/Users/sahil/code/express-app/controllers/questionController.js:12:72)\n    at exports.createQuestion (/Users/sahil/code/express-app/controllers/questionController.js:29:30)\n    at Layer.handle [as handle_request] (/Users/sahil/code/express-app/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/sahil/code/express-app/node_modules/express/lib/router/route.js:149:13)\n    at authMiddleware (/Users/sahil/code/express-app/middlewares/authMiddleware.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","service":"user-service","timestamp":"2024-06-15 03:11:18"}
+{"level":"error","message":"Error creating question: Error: Error fetching AI response from Anthropic\n    at getAIAnswer (/Users/sahil/code/express-app/controllers/questionController.js:22:15)\n    at exports.createQuestion (/Users/sahil/code/express-app/controllers/questionController.js:29:30)\n    at Layer.handle [as handle_request] (/Users/sahil/code/express-app/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/sahil/code/express-app/node_modules/express/lib/router/route.js:149:13)\n    at authMiddleware (/Users/sahil/code/express-app/middlewares/authMiddleware.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","service":"user-service","timestamp":"2024-06-15 03:11:18"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 03:12:02"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 03:12:07"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 03:12:07"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 03:12:07"}
+{"level":"error","message":"Error fetching AI response from Anthropic: TypeError: Assignment to constant variable.\n    at getAIAnswer (/Users/sahil/code/express-app/controllers/questionController.js:12:72)\n    at exports.createQuestion (/Users/sahil/code/express-app/controllers/questionController.js:29:30)\n    at Layer.handle [as handle_request] (/Users/sahil/code/express-app/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/sahil/code/express-app/node_modules/express/lib/router/route.js:149:13)\n    at authMiddleware (/Users/sahil/code/express-app/middlewares/authMiddleware.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","service":"user-service","timestamp":"2024-06-15 03:12:07"}
+{"level":"error","message":"Error creating question: Error: Error fetching AI response from Anthropic\n    at getAIAnswer (/Users/sahil/code/express-app/controllers/questionController.js:22:15)\n    at exports.createQuestion (/Users/sahil/code/express-app/controllers/questionController.js:29:30)\n    at Layer.handle [as handle_request] (/Users/sahil/code/express-app/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/sahil/code/express-app/node_modules/express/lib/router/route.js:149:13)\n    at authMiddleware (/Users/sahil/code/express-app/middlewares/authMiddleware.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","service":"user-service","timestamp":"2024-06-15 03:12:07"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 03:12:29"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 03:12:56"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 03:13:00"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 03:13:00"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 03:13:00"}
+{"level":"error","message":"Error fetching AI response from Anthropic: TypeError: Assignment to constant variable.\n    at getAIAnswer (/Users/sahil/code/express-app/controllers/questionController.js:12:72)\n    at exports.createQuestion (/Users/sahil/code/express-app/controllers/questionController.js:29:30)\n    at Layer.handle [as handle_request] (/Users/sahil/code/express-app/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/sahil/code/express-app/node_modules/express/lib/router/route.js:149:13)\n    at authMiddleware (/Users/sahil/code/express-app/middlewares/authMiddleware.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","service":"user-service","timestamp":"2024-06-15 03:13:00"}
+{"level":"error","message":"Error creating question: Error: Error fetching AI response from Anthropic\n    at getAIAnswer (/Users/sahil/code/express-app/controllers/questionController.js:22:15)\n    at exports.createQuestion (/Users/sahil/code/express-app/controllers/questionController.js:29:30)\n    at Layer.handle [as handle_request] (/Users/sahil/code/express-app/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/sahil/code/express-app/node_modules/express/lib/router/route.js:149:13)\n    at authMiddleware (/Users/sahil/code/express-app/middlewares/authMiddleware.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","service":"user-service","timestamp":"2024-06-15 03:13:00"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 03:13:45"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 03:13:48"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 03:13:48"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 03:13:48"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666cb310c2b4b140c1e67044'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666cb995d6dd790c66e3cb7e'),\n  createdAt: 2024-06-14T21:43:49.940Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 03:13:49"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 03:15:44"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 03:15:57"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 03:15:57"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 03:16:09"}
+{"level":"info","message":"GET /api-docs/","service":"user-service","timestamp":"2024-06-15 03:17:52"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","service":"user-service","timestamp":"2024-06-15 03:17:52"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","service":"user-service","timestamp":"2024-06-15 03:17:52"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","service":"user-service","timestamp":"2024-06-15 03:17:52"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","service":"user-service","timestamp":"2024-06-15 03:17:52"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 03:17:52"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 03:17:53"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 03:18:09"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 03:18:24"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 03:18:24"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 03:18:30"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 03:18:30"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 03:18:30"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666cb310c2b4b140c1e67044'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666cbaaf20e1be529878e0d1'),\n  createdAt: 2024-06-14T21:48:31.522Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 03:18:31"}
+{"level":"info","message":"GET /api/questions/666cbaaf20e1be529878e0d1","service":"user-service","timestamp":"2024-06-15 03:18:52"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 03:18:52"}
+{"level":"info","message":"Question fetched successfully: {\n  _id: new ObjectId('666cbaaf20e1be529878e0d1'),\n  userId: {\n    _id: new ObjectId('666cb310c2b4b140c1e67044'),\n    username: 'admin',\n    email: 'admin@admin.com'\n  },\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  createdAt: 2024-06-14T21:48:31.522Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 03:18:52"}
+{"level":"info","message":"GET /api/users/666cb310c2b4b140c1e67044/questions","service":"user-service","timestamp":"2024-06-15 03:19:09"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 03:19:09"}
+{"level":"info","message":"Questions fetched successfully for user: 666cb310c2b4b140c1e67044","service":"user-service","timestamp":"2024-06-15 03:19:09"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","service":"user-service","timestamp":"2024-06-15 03:19:20"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css.map","service":"user-service","timestamp":"2024-06-15 03:19:20"}
+{"level":"info","message":"POST /api/auth/logout","service":"user-service","timestamp":"2024-06-15 03:19:38"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 03:19:50"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 03:19:50"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of india?","service":"user-service","timestamp":"2024-06-15 03:19:50"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666cb310c2b4b140c1e67044'),\n  question: 'What is the capital of india?',\n  answer: 'New Delhi is the capital of India.',\n  _id: new ObjectId('666cbaff20e1be529878e0da'),\n  createdAt: 2024-06-14T21:49:51.109Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 03:19:51"}
+{"level":"info","message":"GET /api/users/666cb310c2b4b140c1e67044","service":"user-service","timestamp":"2024-06-15 03:20:16"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 03:20:16"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 03:20:30"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:40:41"}
+{"level":"info","message":"GET /api-docs/","service":"user-service","timestamp":"2024-06-15 12:40:44"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","service":"user-service","timestamp":"2024-06-15 12:40:44"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","service":"user-service","timestamp":"2024-06-15 12:40:44"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","service":"user-service","timestamp":"2024-06-15 12:40:44"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","service":"user-service","timestamp":"2024-06-15 12:40:44"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 12:40:44"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 12:40:44"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 12:41:12"}
+{"level":"info","message":"GET /api/users/sahil%40gmail.com","service":"user-service","timestamp":"2024-06-15 12:41:31"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 12:41:31"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 12:41:44"}
+{"level":"info","message":"GET /api/users/666d3e90d3562ec176aeb2c7","service":"user-service","timestamp":"2024-06-15 12:42:03"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 12:42:03"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 12:42:31"}
+{"level":"info","message":"GET /api/users/666d3e90d3562ec176aeb2c7","service":"user-service","timestamp":"2024-06-15 12:42:44"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 12:42:44"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:43:57"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:43:59"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:44:30"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:44:38"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:44:46"}
+{"level":"info","message":"GET /api-docs/","service":"user-service","timestamp":"2024-06-15 12:44:47"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","service":"user-service","timestamp":"2024-06-15 12:44:47"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","service":"user-service","timestamp":"2024-06-15 12:44:47"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","service":"user-service","timestamp":"2024-06-15 12:44:47"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","service":"user-service","timestamp":"2024-06-15 12:44:47"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 12:44:47"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 12:44:47"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 12:44:57"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 12:44:57"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the chemical formula for water?","service":"user-service","timestamp":"2024-06-15 12:44:57"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d3e90d3562ec176aeb2c7'),\n  question: 'What is the chemical formula for water?',\n  answer: 'The chemical formula for water is H2O. This indicates that a water molecule is comprised of 2 hydrogen atoms bonded to 1 oxygen atom.',\n  _id: new ObjectId('666d3f726727954d742490d9'),\n  createdAt: 2024-06-15T07:14:58.704Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 12:44:58"}
+{"level":"info","message":"GET /api/questions/666d3f726727954d742490d9","service":"user-service","timestamp":"2024-06-15 12:45:23"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 12:45:23"}
+{"level":"info","message":"Question fetched successfully: {\n  _id: new ObjectId('666d3f726727954d742490d9'),\n  userId: {\n    _id: new ObjectId('666d3e90d3562ec176aeb2c7'),\n    username: 'sahil',\n    email: 'sahil@gmail.com'\n  },\n  question: 'What is the chemical formula for water?',\n  answer: 'The chemical formula for water is H2O. This indicates that a water molecule is comprised of 2 hydrogen atoms bonded to 1 oxygen atom.',\n  createdAt: 2024-06-15T07:14:58.704Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 12:45:23"}
+{"level":"info","message":"GET /api/users/666d3e90d3562ec176aeb2c7/questions","service":"user-service","timestamp":"2024-06-15 12:45:45"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 12:45:45"}
+{"level":"info","message":"Questions fetched successfully for user: 666d3e90d3562ec176aeb2c7","service":"user-service","timestamp":"2024-06-15 12:45:45"}
+{"level":"info","message":"GET /api/users/666cb310c2b4b140c1e67044/questions","service":"user-service","timestamp":"2024-06-15 12:45:58"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 12:45:58"}
+{"level":"info","message":"Questions fetched successfully for user: 666cb310c2b4b140c1e67044","service":"user-service","timestamp":"2024-06-15 12:45:58"}
+{"level":"info","message":"POST /api/auth/logout","service":"user-service","timestamp":"2024-06-15 12:46:30"}
+{"level":"info","message":"GET /api/users/666cb310c2b4b140c1e67044/questions","service":"user-service","timestamp":"2024-06-15 12:46:35"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 12:46:35"}
+{"level":"info","message":"Questions fetched successfully for user: 666cb310c2b4b140c1e67044","service":"user-service","timestamp":"2024-06-15 12:46:35"}
+{"level":"info","message":"POST /api/auth/logout","service":"user-service","timestamp":"2024-06-15 12:46:41"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:47:14"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:47:18"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:47:29"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:47:31"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:49:16"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:49:26"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:49:46"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:53:25"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:53:53"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:54:21"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:54:48"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:55:09"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:55:13"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:55:16"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:55:48"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:56:27"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:58:06"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 12:59:24"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:00:48"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:05:34"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:06:23"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:07:05"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:07:21"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:07:40"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:07:55"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:08:25"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:10:13"}
+{"level":"info","message":"Connecting to MongoDB","service":"user-service","timestamp":"2024-06-15 13:11:03"}
+{"level":"info","message":"Connecting to MongoDB","service":"user-service","timestamp":"2024-06-15 13:11:03"}
+{"level":"info","message":"Connecting to MongoDB","service":"user-service","timestamp":"2024-06-15 13:11:03"}
+{"level":"info","message":"Closing MongoDB","service":"user-service","timestamp":"2024-06-15 13:11:03"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:11:03"}
+{"level":"info","message":"Closing MongoDB","service":"user-service","timestamp":"2024-06-15 13:11:03"}
+{"level":"info","message":"Closing MongoDB","service":"user-service","timestamp":"2024-06-15 13:11:03"}
+{"level":"info","message":"Connecting to MongoDB","service":"user-service","timestamp":"2024-06-15 13:12:04"}
+{"level":"info","message":"Closing MongoDB","service":"user-service","timestamp":"2024-06-15 13:12:04"}
+{"level":"info","message":"Connecting to MongoDB","service":"user-service","timestamp":"2024-06-15 13:12:04"}
+{"level":"info","message":"Closing MongoDB","service":"user-service","timestamp":"2024-06-15 13:12:04"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:12:04"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:12:38"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:15:24"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:15:45"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:15:55"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:17:11"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:17:56"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:19:52"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:20:19"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:21:08"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:22:03"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:23:05"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:23:05"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:23:05"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:23:06"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:23:06"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:23:06"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:23:06"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:23:38"}
+{"level":"info","message":"GET /docs/","service":"user-service","timestamp":"2024-06-15 13:23:47"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:23:59"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:24:03"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:24:03"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:24:03"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:24:04"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:24:04"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:24:04"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:24:04"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:24:04"}
+{"level":"info","message":"GET /api/users/some_valid_user_id","service":"user-service","timestamp":"2024-06-15 13:24:04"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:24:04"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:24:08"}
+{"level":"info","message":"GET /api-docs/","service":"user-service","timestamp":"2024-06-15 13:24:17"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","service":"user-service","timestamp":"2024-06-15 13:24:17"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","service":"user-service","timestamp":"2024-06-15 13:24:17"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","service":"user-service","timestamp":"2024-06-15 13:24:17"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","service":"user-service","timestamp":"2024-06-15 13:24:17"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 13:24:18"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:24:45"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:25:01"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:25:03"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:25:03"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:25:04"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:25:04"}
+{"level":"info","message":"GET /api/users/some_valid_user_id","service":"user-service","timestamp":"2024-06-15 13:25:04"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:25:04"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:25:04"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:25:04"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:25:04"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:25:04"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:25:59"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:25:59"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:25:59"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:25:59"}
+{"level":"info","message":"GET /api/users/some_valid_user_id","service":"user-service","timestamp":"2024-06-15 13:26:00"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:26:00"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:26:00"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:26:00"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:26:00"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:26:00"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:26:18"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:26:18"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:26:18"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:26:18"}
+{"level":"info","message":"GET /api/users/some_valid_user_id","service":"user-service","timestamp":"2024-06-15 13:26:18"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:26:18"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:26:19"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:26:19"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:26:19"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:26:19"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:28:02"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:28:02"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:28:02"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:28:02"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:28:03"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:28:03"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:28:03"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:28:03"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:28:03"}
+{"level":"info","message":"GET /api/users/some_valid_user_id","service":"user-service","timestamp":"2024-06-15 13:28:03"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:28:03"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:29:07"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:29:07"}
+{"level":"info","message":"GET /api/users/some_valid_user_id","service":"user-service","timestamp":"2024-06-15 13:29:07"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:29:07"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:29:08"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:29:08"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:29:08"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:29:08"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:29:08"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:29:08"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:29:08"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:31:37"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:31:37"}
+{"level":"info","message":"GET /api/users/some_valid_user_id","service":"user-service","timestamp":"2024-06-15 13:31:37"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:31:37"}
+{"level":"info","message":"POST /api/login","service":"user-service","timestamp":"2024-06-15 13:31:37"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:31:37"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:31:37"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:31:38"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:31:38"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:31:38"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:31:38"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:31:59"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:31:59"}
+{"level":"info","message":"GET /api/users/some_valid_user_id","service":"user-service","timestamp":"2024-06-15 13:31:59"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:31:59"}
+{"level":"info","message":"POST /api/login","service":"user-service","timestamp":"2024-06-15 13:32:00"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:32:00"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:32:00"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:32:00"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:32:00"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:32:00"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:32:00"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:32:24"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:32:24"}
+{"level":"info","message":"GET /api/users/some_valid_user_id","service":"user-service","timestamp":"2024-06-15 13:32:25"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:32:25"}
+{"level":"info","message":"POST /api/login","service":"user-service","timestamp":"2024-06-15 13:32:25"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:32:25"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:32:25"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:32:26"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:32:26"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:32:26"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:32:26"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:32:40"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:32:40"}
+{"level":"info","message":"GET /api/users/some_valid_user_id","service":"user-service","timestamp":"2024-06-15 13:32:40"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:32:40"}
+{"level":"info","message":"POST /api/login","service":"user-service","timestamp":"2024-06-15 13:32:40"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:32:40"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:32:40"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:32:41"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:32:41"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:32:41"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:32:41"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:33:04"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:33:04"}
+{"level":"info","message":"GET /api/users/some_valid_user_id","service":"user-service","timestamp":"2024-06-15 13:33:04"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:33:04"}
+{"level":"info","message":"POST /api/login","service":"user-service","timestamp":"2024-06-15 13:33:05"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:33:05"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:33:05"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:33:05"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:33:05"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:33:05"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:33:05"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:33:43"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:33:43"}
+{"level":"info","message":"GET /api/users/some_valid_user_id","service":"user-service","timestamp":"2024-06-15 13:33:44"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:33:44"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:33:44"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:33:44"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:33:44"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:33:44"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:33:44"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:33:44"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:33:44"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:34:09"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:34:09"}
+{"level":"info","message":"GET /api/users/some_valid_user_id","service":"user-service","timestamp":"2024-06-15 13:34:09"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:34:09"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:34:10"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:34:10"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:34:10"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:34:10"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:34:10"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:34:10"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:34:10"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:35:05"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:35:05"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:35:05"}
+{"level":"info","message":"GET /api/users/some_valid_user_id","service":"user-service","timestamp":"2024-06-15 13:35:06"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:35:06"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:35:06"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:35:06"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:35:06"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:35:06"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:35:06"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:35:06"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:35:06"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:35:06"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:35:33"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:35:33"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:35:33"}
+{"level":"info","message":"GET /api/users/some_valid_user_id","service":"user-service","timestamp":"2024-06-15 13:35:33"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:35:33"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:35:33"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:35:33"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:35:33"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:35:34"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:35:34"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:35:34"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:35:34"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:35:34"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:36:31"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:36:31"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:36:31"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:36:32"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:36:32"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:36:32"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:36:32"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:36:32"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:36:32"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:36:32"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:36:32"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:36:32"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:36:32"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:38:41"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:38:41"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:38:41"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:38:41"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:38:41"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:38:41"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:38:41"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:38:41"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:38:41"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:38:41"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:38:41"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:38:41"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:38:41"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:39:30"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:39:30"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:39:30"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:39:30"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:39:30"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:39:30"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:39:30"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:39:30"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:39:31"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:39:30"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:39:31"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:39:31"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:39:31"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:40:45"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:40:45"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:40:45"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:40:45"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:40:45"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:40:46"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:40:46"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:40:46"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:43:00"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:43:01"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:43:01"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:43:01"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:43:01"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:43:01"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:43:01"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:43:53"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:43:53"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:43:53"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:43:53"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:43:53"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:43:53"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:43:53"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:43:53"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:44:25"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:44:25"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:44:25"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:44:25"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:44:25"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:44:25"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:44:25"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:44:25"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:44:25"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:44:25"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:44:25"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:44:26"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:44:26"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:45:33"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:45:33"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:45:33"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:45:33"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:45:33"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:45:33"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:45:33"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:45:33"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:45:33"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:45:33"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:45:33"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:45:34"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:46:13"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:46:13"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:46:13"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:46:13"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:46:13"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:46:13"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:46:13"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:46:13"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:46:13"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:46:14"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:46:14"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:46:14"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:46:14"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:47:54"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:47:54"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:47:54"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:47:54"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:47:54"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:47:54"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:47:54"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:47:54"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:47:54"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:47:54"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:47:54"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:47:54"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:47:54"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:50:17"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:50:17"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:50:17"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:50:17"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:50:17"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:50:17"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:50:17"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:51:42"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:51:42"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:51:42"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:51:42"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:51:42"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:51:42"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:51:42"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:51:42"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:51:42"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:51:42"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 13:51:42"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666d4f17a338ebc12706db68'),\n  createdAt: 2024-06-15T08:21:43.232Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 13:51:43"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:51:43"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:51:43"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:51:43"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:52:38"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:52:38"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:52:38"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:52:38"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:52:38"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:52:39"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:52:39"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:52:39"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 13:52:39"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:52:39"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:52:39"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666d4f4f79f5cc8693112390'),\n  createdAt: 2024-06-15T08:22:39.958Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 13:52:39"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:52:39"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:52:39"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:52:39"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:53:36"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:53:36"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:53:36"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:53:36"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:53:36"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:53:36"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:53:36"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 13:53:36"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:53:36"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:53:36"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:53:36"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666d4f892b0464a9860a65da'),\n  createdAt: 2024-06-15T08:23:37.210Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 13:53:37"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:53:37"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:53:37"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:53:37"}
+{"level":"error","message":"Error fetching question: CastError: Cast to ObjectId failed for value \"some_valid_question_id\" (type string) at path \"_id\" for model \"Question\"\n    at SchemaObjectId.Object.<anonymous>.SchemaObjectId.cast (/Users/sahil/code/express-app/node_modules/mongoose/lib/schema/objectId.js:250:11)\n    at SchemaObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/sahil/code/express-app/node_modules/mongoose/lib/schemaType.js:1236:12)\n    at SchemaObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/sahil/code/express-app/node_modules/mongoose/lib/schemaType.js:1653:17)\n    at cast (/Users/sahil/code/express-app/node_modules/mongoose/lib/cast.js:375:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/sahil/code/express-app/node_modules/mongoose/lib/query.js:4798:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/sahil/code/express-app/node_modules/mongoose/lib/query.js:2206:10)\n    at model.Query._findOne (/Users/sahil/code/express-app/node_modules/mongoose/lib/query.js:2526:8)\n    at model.Query.exec (/Users/sahil/code/express-app/node_modules/mongoose/lib/query.js:4342:80)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at Object.<anonymous>.exports.getQuestionById (/Users/sahil/code/express-app/controllers/questionController.js:43:26) {\n  stringValue: '\"some_valid_question_id\"',\n  messageFormat: undefined,\n  kind: 'ObjectId',\n  value: 'some_valid_question_id',\n  path: '_id',\n  reason: BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer\n      at new ObjectId (/Users/sahil/code/express-app/node_modules/bson/src/objectid.ts:118:15)\n      at castObjectId (/Users/sahil/code/express-app/node_modules/mongoose/lib/cast/objectid.js:25:12)\n      at SchemaObjectId.Object.<anonymous>.SchemaObjectId.cast (/Users/sahil/code/express-app/node_modules/mongoose/lib/schema/objectId.js:248:12)\n      at SchemaObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/sahil/code/express-app/node_modules/mongoose/lib/schemaType.js:1236:12)\n      at SchemaObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/sahil/code/express-app/node_modules/mongoose/lib/schemaType.js:1653:17)\n      at cast (/Users/sahil/code/express-app/node_modules/mongoose/lib/cast.js:375:32)\n      at model.Query.Object.<anonymous>.Query.cast (/Users/sahil/code/express-app/node_modules/mongoose/lib/query.js:4798:12)\n      at model.Query.Object.<anonymous>.Query._castConditions (/Users/sahil/code/express-app/node_modules/mongoose/lib/query.js:2206:10)\n      at model.Query._findOne (/Users/sahil/code/express-app/node_modules/mongoose/lib/query.js:2526:8)\n      at model.Query.exec (/Users/sahil/code/express-app/node_modules/mongoose/lib/query.js:4342:80)\n      at processTicksAndRejections (node:internal/process/task_queues:95:5)\n      at Object.<anonymous>.exports.getQuestionById (/Users/sahil/code/express-app/controllers/questionController.js:43:26),\n  valueType: 'string'\n}","service":"user-service","timestamp":"2024-06-15 13:53:37"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:54:57"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:54:57"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:54:57"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:54:57"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:54:57"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:54:57"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:54:57"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 13:54:57"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:54:57"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:54:57"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:54:57"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:54:57"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666d4fda760ab70cf2915e41'),\n  createdAt: 2024-06-15T08:24:58.466Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 13:54:58"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:54:58"}
+{"level":"info","message":"GET /api/questions/some_valid_question_id","service":"user-service","timestamp":"2024-06-15 13:54:58"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:54:58"}
+{"level":"error","message":"Error fetching question: CastError: Cast to ObjectId failed for value \"some_valid_question_id\" (type string) at path \"_id\" for model \"Question\"\n    at SchemaObjectId.Object.<anonymous>.SchemaObjectId.cast (/Users/sahil/code/express-app/node_modules/mongoose/lib/schema/objectId.js:250:11)\n    at SchemaObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/sahil/code/express-app/node_modules/mongoose/lib/schemaType.js:1236:12)\n    at SchemaObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/sahil/code/express-app/node_modules/mongoose/lib/schemaType.js:1653:17)\n    at cast (/Users/sahil/code/express-app/node_modules/mongoose/lib/cast.js:375:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/sahil/code/express-app/node_modules/mongoose/lib/query.js:4798:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/sahil/code/express-app/node_modules/mongoose/lib/query.js:2206:10)\n    at model.Query._findOne (/Users/sahil/code/express-app/node_modules/mongoose/lib/query.js:2526:8)\n    at model.Query.exec (/Users/sahil/code/express-app/node_modules/mongoose/lib/query.js:4342:80)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at Object.<anonymous>.exports.getQuestionById (/Users/sahil/code/express-app/controllers/questionController.js:43:26) {\n  stringValue: '\"some_valid_question_id\"',\n  messageFormat: undefined,\n  kind: 'ObjectId',\n  value: 'some_valid_question_id',\n  path: '_id',\n  reason: BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer\n      at new ObjectId (/Users/sahil/code/express-app/node_modules/bson/src/objectid.ts:118:15)\n      at castObjectId (/Users/sahil/code/express-app/node_modules/mongoose/lib/cast/objectid.js:25:12)\n      at SchemaObjectId.Object.<anonymous>.SchemaObjectId.cast (/Users/sahil/code/express-app/node_modules/mongoose/lib/schema/objectId.js:248:12)\n      at SchemaObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/sahil/code/express-app/node_modules/mongoose/lib/schemaType.js:1236:12)\n      at SchemaObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/sahil/code/express-app/node_modules/mongoose/lib/schemaType.js:1653:17)\n      at cast (/Users/sahil/code/express-app/node_modules/mongoose/lib/cast.js:375:32)\n      at model.Query.Object.<anonymous>.Query.cast (/Users/sahil/code/express-app/node_modules/mongoose/lib/query.js:4798:12)\n      at model.Query.Object.<anonymous>.Query._castConditions (/Users/sahil/code/express-app/node_modules/mongoose/lib/query.js:2206:10)\n      at model.Query._findOne (/Users/sahil/code/express-app/node_modules/mongoose/lib/query.js:2526:8)\n      at model.Query.exec (/Users/sahil/code/express-app/node_modules/mongoose/lib/query.js:4342:80)\n      at processTicksAndRejections (node:internal/process/task_queues:95:5)\n      at Object.<anonymous>.exports.getQuestionById (/Users/sahil/code/express-app/controllers/questionController.js:43:26),\n  valueType: 'string'\n}","service":"user-service","timestamp":"2024-06-15 13:54:58"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 13:56:40"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:56:40"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:56:40"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:56:40"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:56:40"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:56:40"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:56:40"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 13:56:40"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:56:40"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:56:40"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:56:40"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:56:40"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666d504175e9ba4e27d22e35'),\n  createdAt: 2024-06-15T08:26:41.479Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 13:56:41"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:56:41"}
+{"level":"info","message":"GET /api/questions/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:56:41"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:56:41"}
+{"level":"warn","message":"Question not found: 666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:56:41"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:58:36"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:58:36"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:58:36"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:58:36"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:58:36"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:58:36"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 13:58:36"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:58:36"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666d50b5654394ca859939c2'),\n  createdAt: 2024-06-15T08:28:37.154Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 13:58:37"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:58:37"}
+{"level":"info","message":"GET /api/questions/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:58:37"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:58:37"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:58:44"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:58:44"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:58:50"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:58:50"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:58:50"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:58:50"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:58:51"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:58:51"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:58:51"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:58:51"}
+{"level":"info","message":"GET /api/questions/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:58:51"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:58:51"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 13:59:48"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:59:48"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 13:59:48"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:59:48"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 13:59:48"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666d50fd0e34b3e40892441d'),\n  createdAt: 2024-06-15T08:29:49.672Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 13:59:49"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:59:49"}
+{"level":"info","message":"GET /api/questions/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:59:49"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 13:59:49"}
+{"level":"warn","message":"Question not found: 666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 13:59:49"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:59:50"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 13:59:50"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 13:59:50"}
+{"level":"info","message":"GET /api/questions/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:00:38"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:00:38"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:01:02"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:01:07"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:01:20"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:01:23"}
+{"level":"info","message":"GET /api/questions/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:01:33"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:01:33"}
+{"level":"warn","message":"Question not found: 666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:01:33"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:01:42"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:01:42"}
+{"level":"info","message":"Question fetched successfully: {\n  _id: new ObjectId('666d4fda760ab70cf2915e41'),\n  userId: {\n    _id: new ObjectId('666d489ca3f409387c20ee53'),\n    username: 'testuser',\n    email: 'testuser@example.com'\n  },\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  createdAt: 2024-06-15T08:24:58.466Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:01:42"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:01:48"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:01:56"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:01:56"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:02:01"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:02:01"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:02:01"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:02:01"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:02:01"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 14:02:01"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:02:01"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:02:01"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666d51821954a515fd53f652'),\n  createdAt: 2024-06-15T08:32:02.436Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:02:02"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:02:02"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:02:02"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:02:02"}
+{"level":"info","message":"Question fetched successfully: {\n  _id: new ObjectId('666d4fda760ab70cf2915e41'),\n  userId: {\n    _id: new ObjectId('666d489ca3f409387c20ee53'),\n    username: 'testuser',\n    email: 'testuser@example.com'\n  },\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  createdAt: 2024-06-15T08:24:58.466Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:02:02"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:02:44"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:02:44"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:02:44"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:02:44"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:02:44"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:02:44"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 14:02:44"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:02:44"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:02:44"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:02:44"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:02:44"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:02:44"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666d51ad70165482564e5d79'),\n  createdAt: 2024-06-15T08:32:45.350Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:02:45"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:02:45"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:02:45"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:02:45"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:03:35"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:03:35"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:03:35"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:03:35"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:03:35"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:03:35"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 14:03:35"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:03:35"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:03:35"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:03:35"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:03:36"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:03:36"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666d51e0492f94418523825c'),\n  createdAt: 2024-06-15T08:33:36.386Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:03:36"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:03:36"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:03:36"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:03:36"}
+{"level":"info","message":"Question fetched successfully: {\n  _id: new ObjectId('666d4fda760ab70cf2915e41'),\n  userId: {\n    _id: new ObjectId('666d489ca3f409387c20ee53'),\n    username: 'testuser',\n    email: 'testuser@example.com'\n  },\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  createdAt: 2024-06-15T08:24:58.466Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:03:36"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:05:52"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:05:52"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:05:52"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:05:52"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:05:52"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:05:52"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:05:52"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:05:52"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:05:53"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:05:53"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:05:53"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:05:53"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:05:53"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:05:53"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:36"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:36"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:06:36"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:36"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:06:36"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:06:36"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:36"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:06:36"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:06:36"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:06:37"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:37"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:06:37"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:06:37"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:45"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:45"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:06:45"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:06:46"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:47"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:06:47"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:06:47"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:47"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:06:47"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:06:47"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:47"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:06:47"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:06:47"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:06:50"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:50"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:06:50"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:06:50"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:51"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:51"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:06:51"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:51"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:06:52"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:06:52"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:52"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:06:52"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:06:52"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:06:54"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:54"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:06:54"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:06:54"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:55"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:55"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:06:55"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:56"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:06:56"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:06:56"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:56"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:06:56"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:06:56"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:06:59"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:59"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:06:59"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:06:59"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:59"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:06:59"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:06:59"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:06:59"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:06:59"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:06:59"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:07:00"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:07:00"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:07:00"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:07:02"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:07:02"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:07:02"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:07:02"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:07:02"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:07:03"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:07:03"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:07:03"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:07:03"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:07:03"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:07:03"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:07:03"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:07:03"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:07:08"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:07:09"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:07:19"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:07:19"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:07:24"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:07:25"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:08:17"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:08:17"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:08:18"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:08:18"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:08:18"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 14:08:18"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:08:18"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:08:18"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:08:18"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:08:18"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:08:18"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital city of France is Paris.',\n  _id: new ObjectId('666d52fa0e5b62c2d263451c'),\n  createdAt: 2024-06-15T08:38:18.923Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:08:18"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:08:18"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:08:18"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:08:18"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:08:43"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:08:44"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:08:49"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:08:49"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:10:22"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:10:22"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:10:22"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:10:23"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:10:23"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:10:23"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:10:23"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:10:23"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:10:23"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:10:23"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:10:23"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:10:23"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:10:23"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:10:23"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:11:10"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:11:10"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:11:10"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:11:10"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:11:10"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:11:10"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:11:10"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:11:10"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:11:10"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:11:10"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:11:11"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:11:11"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:11:11"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:11:11"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:12:41"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:12:41"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:12:41"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:12:41"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:12:41"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:15:34"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:15:35"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:15:35"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:15:35"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:15:35"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:15:35"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:15:35"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 14:15:35"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:15:35"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:15:35"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:15:35"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:15:35"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666d54b0ddfacff18e3ae6f0'),\n  createdAt: 2024-06-15T08:45:36.225Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:15:36"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:15:36"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:15:36"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:15:36"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:16:24"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:16:24"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:16:24"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:16:24"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:16:24"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:16:28"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:16:28"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:16:28"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:16:28"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:16:28"}
+{"level":"info","message":"Server running on port 35968","service":"user-service","timestamp":"2024-06-15 14:17:21"}
+{"level":"info","message":"Server running on port 7628","service":"user-service","timestamp":"2024-06-15 14:17:21"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:17:21"}
+{"level":"info","message":"Server running on port 56578","service":"user-service","timestamp":"2024-06-15 14:17:21"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:17:21"}
+{"level":"info","message":"Server running on port 32401","service":"user-service","timestamp":"2024-06-15 14:17:51"}
+{"level":"info","message":"Server running on port 50829","service":"user-service","timestamp":"2024-06-15 14:17:51"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:17:51"}
+{"level":"info","message":"Server running on port 20620","service":"user-service","timestamp":"2024-06-15 14:17:52"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:17:52"}
+{"level":"info","message":"Server running on port 36402","service":"user-service","timestamp":"2024-06-15 14:17:57"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:17:57"}
+{"level":"info","message":"Server running on port 55442","service":"user-service","timestamp":"2024-06-15 14:17:57"}
+{"level":"info","message":"Server running on port 52025","service":"user-service","timestamp":"2024-06-15 14:17:57"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:17:57"}
+{"level":"info","message":"Server running on port 47427","service":"user-service","timestamp":"2024-06-15 14:18:04"}
+{"level":"info","message":"Server running on port 18730","service":"user-service","timestamp":"2024-06-15 14:18:04"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:18:04"}
+{"level":"info","message":"Server running on port 8139","service":"user-service","timestamp":"2024-06-15 14:18:04"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:18:04"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:18:13"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:18:13"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:18:13"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:18:18"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:18:18"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:18:18"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:18:23"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:18:24"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:18:29"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:18:29"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:19:06"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:19:07"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:19:07"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:19:07"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:19:07"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:19:19"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:19:20"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:19:25"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:19:25"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:19:31"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:19:31"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:19:33"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:19:33"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:19:38"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:19:39"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:20:01"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:20:01"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:20:05"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:20:06"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:20:11"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:20:11"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:20:16"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:20:16"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:20:53"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:20:53"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:20:56"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:20:56"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:21:04"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:21:04"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:21:40"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:21:41"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:21:51"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:21:51"}
+{"level":"info","message":"Server running on port undefined","service":"user-service","timestamp":"2024-06-15 14:22:07"}
+{"level":"info","message":"Server running on port undefined","service":"user-service","timestamp":"2024-06-15 14:22:07"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:22:07"}
+{"level":"info","message":"Server running on port undefined","service":"user-service","timestamp":"2024-06-15 14:22:08"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:22:08"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:22:18"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:22:18"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:22:18"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:22:19"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:22:19"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:22:57"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:22:57"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:22:57"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:22:57"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:22:57"}
+{"level":"info","message":"Server running on port 6000","service":"user-service","timestamp":"2024-06-15 14:27:02"}
+{"level":"info","message":"Server running on port 6000","service":"user-service","timestamp":"2024-06-15 14:27:10"}
+{"level":"info","message":"Server running on port 6000","service":"user-service","timestamp":"2024-06-15 14:27:19"}
+{"level":"info","message":"Server running on port 6000","service":"user-service","timestamp":"2024-06-15 14:28:18"}
+{"level":"info","message":"GET /docs/","service":"user-service","timestamp":"2024-06-15 14:29:51"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2024-06-15 14:33:52"}
+{"level":"info","message":"GET /api-docs/","service":"user-service","timestamp":"2024-06-15 14:34:00"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","service":"user-service","timestamp":"2024-06-15 14:34:00"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","service":"user-service","timestamp":"2024-06-15 14:34:00"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","service":"user-service","timestamp":"2024-06-15 14:34:00"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","service":"user-service","timestamp":"2024-06-15 14:34:00"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 14:34:00"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","service":"user-service","timestamp":"2024-06-15 14:34:00"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:34:04"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:34:04"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:34:13"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:34:13"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:34:13"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:34:13"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:34:13"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:34:14"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:34:14"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:34:14"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:34:14"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:34:14"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:34:14"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:34:14"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:34:14"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 14:34:14"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666d59129484c851b8cdad29'),\n  createdAt: 2024-06-15T09:04:18.854Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:34:18"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:34:18"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:34:18"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:34:18"}
+{"level":"info","message":"Question fetched successfully: {\n  _id: new ObjectId('666d4fda760ab70cf2915e41'),\n  userId: {\n    _id: new ObjectId('666d489ca3f409387c20ee53'),\n    username: 'testuser',\n    email: 'testuser@example.com'\n  },\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  createdAt: 2024-06-15T08:24:58.466Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:34:18"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:52:36"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:52:36"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:52:36"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:52:36"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 14:52:36"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666d5d6072b4c9b624880ae2'),\n  createdAt: 2024-06-15T09:22:40.348Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:52:40"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:52:40"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:52:40"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:52:40"}
+{"level":"info","message":"Question fetched successfully: {\n  _id: new ObjectId('666d4fda760ab70cf2915e41'),\n  userId: {\n    _id: new ObjectId('666d489ca3f409387c20ee53'),\n    username: 'testuser',\n    email: 'testuser@example.com'\n  },\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  createdAt: 2024-06-15T08:24:58.466Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:52:40"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:52:41"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:52:41"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:52:41"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:52:41"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:52:41"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:52:41"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:52:41"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:52:59"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:52:59"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:53:00"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:53:00"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:53:00"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:53:00"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 14:53:00"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666d5d78b90ae1bc45b1205a'),\n  createdAt: 2024-06-15T09:23:04.500Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:53:04"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:53:04"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:53:04"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:53:04"}
+{"level":"info","message":"Question fetched successfully: {\n  _id: new ObjectId('666d4fda760ab70cf2915e41'),\n  userId: {\n    _id: new ObjectId('666d489ca3f409387c20ee53'),\n    username: 'testuser',\n    email: 'testuser@example.com'\n  },\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  createdAt: 2024-06-15T08:24:58.466Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:53:04"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:53:05"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:53:05"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:53:05"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:53:05"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:53:05"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:53:22"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:53:22"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:53:22"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:53:22"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:53:22"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:53:22"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:53:22"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:53:22"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 14:53:22"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666d5d8bf10a24738f27374e'),\n  createdAt: 2024-06-15T09:23:23.656Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:53:23"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:53:23"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:53:23"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:53:23"}
+{"level":"info","message":"Question fetched successfully: {\n  _id: new ObjectId('666d4fda760ab70cf2915e41'),\n  userId: {\n    _id: new ObjectId('666d489ca3f409387c20ee53'),\n    username: 'testuser',\n    email: 'testuser@example.com'\n  },\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  createdAt: 2024-06-15T08:24:58.466Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:53:23"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:53:24"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:53:24"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:53:24"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:53:24"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:53:24"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:53:27"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:53:27"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:53:28"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:53:28"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 14:53:28"}
+{"level":"info","message":"Question created successfully: {\n  userId: new ObjectId('666d489ca3f409387c20ee53'),\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  _id: new ObjectId('666d5d905c57ccf0e2534732'),\n  createdAt: 2024-06-15T09:23:28.882Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:53:28"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:53:28"}
+{"level":"info","message":"GET /api/questions/666d4fda760ab70cf2915e41","service":"user-service","timestamp":"2024-06-15 14:53:29"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:53:29"}
+{"level":"info","message":"Question fetched successfully: {\n  _id: new ObjectId('666d4fda760ab70cf2915e41'),\n  userId: {\n    _id: new ObjectId('666d489ca3f409387c20ee53'),\n    username: 'testuser',\n    email: 'testuser@example.com'\n  },\n  question: 'What is the capital of France?',\n  answer: 'The capital of France is Paris.',\n  createdAt: 2024-06-15T08:24:58.466Z,\n  __v: 0\n}","service":"user-service","timestamp":"2024-06-15 14:53:29"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:53:29"}
+{"level":"info","message":"POST /api/users","service":"user-service","timestamp":"2024-06-15 14:53:29"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:53:29"}
+{"level":"info","message":"GET /api/users/666d489ca3f409387c20ee53","service":"user-service","timestamp":"2024-06-15 14:53:29"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:53:29"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:53:30"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:53:30"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:53:30"}
+{"level":"info","message":"POST /api/auth/refresh","service":"user-service","timestamp":"2024-06-15 14:53:30"}
+{"level":"info","message":"Server running on port 0","service":"user-service","timestamp":"2024-06-15 14:53:53"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service","timestamp":"2024-06-15 14:53:53"}
+{"level":"info","message":"POST /api/questions","service":"user-service","timestamp":"2024-06-15 14:53:53"}
+{"level":"info","message":"Auth middleware","service":"user-service","timestamp":"2024-06-15 14:53:53"}
+{"level":"info","message":"Fetching AI response from Anthropic: What is the capital of France?","service":"user-service","timestamp":"2024-06-15 14:53:53"}
